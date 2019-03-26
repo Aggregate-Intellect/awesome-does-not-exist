@@ -25,3 +25,7 @@ A compilation of _This * Does Not Exist_ websites.
 ### Cartoon/Anime
 
 - [This Waifu Does Not Exist](https://www.thiswaifudoesnotexist.net/)
+
+#### Reference
+
+- https://www.gwern.net/TWDNE
