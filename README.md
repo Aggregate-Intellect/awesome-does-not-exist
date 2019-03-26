@@ -2,8 +2,6 @@
 
 A compilation of _This * Does Not Exist_ websites.
 
-This person does not exis
-
 ### People
 - [This Person Does Not Exist](https://www.thispersondoesnotexist.com/)
 - [Which Face is Real](http://www.whichfaceisreal.com/)
