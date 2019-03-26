@@ -22,7 +22,7 @@ A compilation of _This * Does Not Exist_ websites.
 
 - [This Rental Does Not Exist](https://thisrentaldoesnotexist.com/)
 
-### Organization & Entities
+### Entities
 
 - [This Startup Does Not Exist](https://thisstartupdoesnotexist.com/)
 
