@@ -24,6 +24,6 @@ This person does not exis
 
 - [This Rental Does Not Exist](https://thisrentaldoesnotexist.com/)
 
-### Cartoon
+### Cartoon/Anime
 
 - [This Waifu Does Not Exist](https://www.thiswaifudoesnotexist.net/)
