@@ -22,8 +22,8 @@ This person does not exis
 
 ### Rooms
 
-[This Rental Does Not Exist](https://thisrentaldoesnotexist.com/)
+- [This Rental Does Not Exist](https://thisrentaldoesnotexist.com/)
 
 ### Cartoon
 
-[This Waifu Does Not Exist](https://www.thiswaifudoesnotexist.net/)
+- [This Waifu Does Not Exist](https://www.thiswaifudoesnotexist.net/)
