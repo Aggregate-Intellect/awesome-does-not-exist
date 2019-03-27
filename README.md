@@ -18,6 +18,7 @@ A collection of _This __ Does Not Exist_ websites.
 
 - [This Car Does Not Exist](https://thiscardoesnotexist.glitch.me/)
 - [(Video) These Cars Do Not Exist](https://www.youtube.com/watch?&v=OLZ3-ZJwSu4)
+- [(Video) This Ramen Does Not Exist](https://twitter.com/knjcode/status/1102771002222637056)
 
 ### Rooms
 
