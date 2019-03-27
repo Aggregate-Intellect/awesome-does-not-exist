@@ -1,6 +1,6 @@
 # awesome-does-not-exist
 
-A compilation of _This * Does Not Exist_ websites.
+A collection of _This __ Does Not Exist_ websites.
 
 ### People
 - [This Person Does Not Exist](https://www.thispersondoesnotexist.com/)
