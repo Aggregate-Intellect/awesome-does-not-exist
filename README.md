@@ -7,11 +7,12 @@ A collection of _This __ Does Not Exist_ websites.
 - [Which Face is Real](http://www.whichfaceisreal.com/)
 
 ### Animal
-
+- [This Cat Does Not Exist](https://thiscatdoesnotexist.com/)
 - [These Cats Do Not Exist](http://thesecatsdonotexist.com/)
 
-### Documents
+### Text & Documents
 
+- [Was this poem written by a human or a computer?](http://botpoet.com/vote/call-me-ishmael/)
 - [This Resume Does Not Exist](https://thisresumedoesnotexist.com/)
 
 ### Objects
@@ -31,6 +32,7 @@ A collection of _This __ Does Not Exist_ websites.
 ### Cartoon/Anime
 
 - [This Waifu Does Not Exist](https://www.thiswaifudoesnotexist.net/)
+- [These Waifus Do Not Exist](https://www.obormot.net/demos/these-waifus-do-not-exist-alt)
 
 #### Reference
 
