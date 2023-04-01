@@ -14,6 +14,9 @@ A collection of _This __ Does Not Exist_ websites.
 
 - [Was this poem written by a human or a computer?](http://botpoet.com/vote/call-me-ishmael/)
 - [This Resume Does Not Exist](https://thisresumedoesnotexist.com/)
+- [This Lyrics Do Not Exist](https://theselyricsdonotexist.com/)
+- [Machine Wisdom](https://machineswisdom.com/)
+- [This Word Does Not Exist](https://www.thisworddoesnotexist.com/)
 
 ### Objects
 
@@ -34,6 +37,10 @@ A collection of _This __ Does Not Exist_ websites.
 
 - [This Waifu Does Not Exist](https://www.thiswaifudoesnotexist.net/)
 - [These Waifus Do Not Exist](https://www.obormot.net/demos/these-waifus-do-not-exist-alt)
+- [This Anime Does Not Exist](https://thisanimedoesnotexist.ai/)
+
+### Others
+- [This Picture Does Not Exist](https://thispicturedoesnotexist.com/)
 
 #### Reference
 
